@@ -1,0 +1,30 @@
+{
+  "name": "koweit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "cmd": "^0.1.0",
+    "common-tags": "^1.8.0",
+    "discord-button-pages": "^1.1.9",
+    "discord-embed": "^1.2.0",
+    "discord-embedbuilder": "^3.2.1",
+    "discord.js-avatar": "^1.0.0",
+    "dotenv": "^8.2.0",
+    "jquery": "^3.6.0",
+    "link": "^0.1.5",
+    "message": "^0.0.1",
+    "moment": "^2.29.1",
+    "split": "^1.0.1",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.8"
+  }
+}
